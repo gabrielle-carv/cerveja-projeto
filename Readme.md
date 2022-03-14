@@ -2,6 +2,6 @@
 
 ## Objetivo:
 
-Coletar os dados de preço das cervejas no site do pão de açucar, ao longo do tempo, para futura análise de variação de preços.
+Coletar, ao longo do tempo, o preço das cervejas no site do [pão de açucar](https://www.paodeacucar.com/busca?terms=cerveja&qt=12&p=2&gt=grid), com o foco de criar uma base de dados para se utilizar em uma futura análise de variação de preços.
 
 
